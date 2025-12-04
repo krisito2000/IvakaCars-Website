@@ -3,7 +3,7 @@
 This is a personal / educational project that showcases a fictional car dealership website.
 
 ## ⚙️ Purpose
-The project was created to practice front-end web development (HTML, CSS, and basic design).
+The project was created to practice front-end web development (HTML, CSS, Bootstrap and basic design).
 
 ## 🚗 Content Disclaimer
 - Some images used on this site are from **real car dealership websites** and belong to their respective owners.  
@@ -12,7 +12,8 @@ The project was created to practice front-end web development (HTML, CSS, and ba
 
 ## 💻 Technologies Used
 - HTML5  
-- CSS  
+- CSS
+- Bootstrap 5
 - Visual Studio Code
 
 ## 📂 How to View
