@@ -7,6 +7,12 @@
     padding: 10px 40px;
 }
 
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
 .navbar a {
     text-decoration: none;
 }
@@ -37,7 +43,7 @@
     text-decoration: none;
     color: #333;
     transform: translateX(-5px);
-    text-shadow: 2px 2px 5px rgba(0,0,0,0.6);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
 }
 
 body {
@@ -51,6 +57,7 @@ footer {
     padding: 15px;
     margin-top: 40px;
 }
+
 footer p {
     margin-top: 16px;
     margin-bottom: 16px;
