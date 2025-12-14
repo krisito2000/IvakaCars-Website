@@ -95,11 +95,17 @@ header {
             margin-left: 34px;
         }
 
+.container-wrapper {
+    display: flex;
+    margin: 0;
+    width: 100%;
+}
+
 .contact-container {
-    max-width: 450px;
-    margin: 20px 0 0 95px;      /* centers the section */
+    width: 32%;
+    margin: 20px 95px 0 95px;      /* centers the section */
     text-align: center;
-    padding: 25px;                 /* space inside the border */
+    padding: 25px;                /* space inside the border */
     border: 2px solid #ccc;        /* border thickness & color */
     border-radius: 12px;           /* rounded corners */
     background-color: #f9f9f9;
@@ -143,4 +149,33 @@ header {
 
 .contact-form button:hover {
     background-color: #28a8ca;
+}
+
+.map-section {
+    padding: 0 20px 0 20px;
+    background-color: #f9fafb;
+    text-align: center;
+    flex-grow: 1;
+}
+
+.map-section h2 {
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.map-container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.map-section h4 {
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 1em;
 }
