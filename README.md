@@ -19,6 +19,7 @@ The project was created to practice front-end web development (HTML, CSS, Bootst
 ## 📂 How to View
 You can open the `index.html` file in your browser to see the website.
 
+
 ---
 
 © 2025 IvailoA05 — for educational use only.
